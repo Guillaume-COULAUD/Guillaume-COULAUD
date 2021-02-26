@@ -1,14 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
+</br>
+
+
+# Skills 🔩
+### HTML/CSS 
+### C/C++
+### SQL
+### PHP
+### JAVA
+
+</br>
+
+# Mes réseaux
+
+[Mon portfolio](https://coulaud-guillaume-portfolio.000webhostapp.com/#section01) 
+
+[Mon Linkedin](https://www.linkedin.com/in/guillaume-coulaud-123a57197/)
 <!--
 **Guillaume-COULAUD/Guillaume-COULAUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Skills 🔩
-# HTML/CSS 
-# C/C++
-# SQL
-# PHP
-# JAVA
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
