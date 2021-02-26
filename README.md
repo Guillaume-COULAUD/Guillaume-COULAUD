@@ -12,9 +12,6 @@
 
 </br>
 
-# Projet 
-
-</br>
 
 # Diplômes 🏆
 ### DUT Informatique 2021 💻
