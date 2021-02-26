@@ -5,17 +5,32 @@
 
 # Skills 🔩
 ### HTML/CSS : 💪💪💪💪
-### C/C++ 💪💪💪
-### SQL 
-### PHP 💪💪💪
-### JAVA
+### C/C++ : 💪💪💪
+### SQL : 💪💪💪
+### PHP : 💪💪💪
+### JAVA : 💪💪💪
 
 </br>
 
-# Mes réseaux
+# Projet 
+
+</br>
+
+# Diplômes 🏆
+### DUT Informatique 2021 💻
+### Baccalauréat ES 
+### Permis B 
+### Prévention et secours civiques de niveau 1
+
+</br>
+
+# Mes réseaux et mes contacts 📪
 
 
 <a href="https://www.linkedin.com/in/guillaume-coulaud-123a57197/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="10%"></a><p>          </p><a href="https://coulaud-guillaume-portfolio.000webhostapp.com/VF.php"><img src="https://brandeps.com/logo-download/A/Adobe-Portfolio-logo-vector-01.svg" width="10%"></a>
+
+### Mail : guillaumedu24000@hotmail.fr
+
 
 
 <!--
