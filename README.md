@@ -13,11 +13,20 @@
 
 
 
-#Projets 📚
+# Projets 📚
 
-###[Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) </h3>
+### [Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) </h3>
 
   Projet réalisé en Java au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser un jeu de Space Invaders.
+  
+### [David Lemonad's](https://github.com/Guillaume-COULAUD/David-Lemonade-s) </h3>
+
+  Projet réalisé en HTML et CSS au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser une page d'inscription à des dégustations de limonade.
+  
+### [Projet Pilaf](https://github.com/Guillaume-COULAUD/Projet-Pilaf) </h3>
+
+  Projet réalisé en HTML et CSS au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser une application de gestion pour un magasin fictif.
+
 
 
 
