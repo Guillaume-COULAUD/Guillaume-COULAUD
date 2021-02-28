@@ -13,6 +13,12 @@ Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Inform
 
 </br>
 
+#Projets 📚
+
+###[Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) 
+  Projet réalisé en Java au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser un jeu de Space Invaders.
+
+</br>
 
 # Diplômes 🏆
 ### DUT Informatique 2021 💻
