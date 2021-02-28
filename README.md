@@ -1,7 +1,7 @@
 # Hi there 👋
 
-Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Informatique à Limoges.   Je suis sérieux et soucieux du travail je réalise. J'aime travailler en équipe mais je peux très bien travailler tout seul.
-</br>
+<p>Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Informatique à Limoges.   Je suis sérieux et soucieux du travail je réalise. J'aime travailler en équipe mais je peux très bien travailler tout seul.</p>
+
 
 
 # Skills 🔩
@@ -11,14 +11,15 @@ Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Inform
 ### PHP : 💪💪💪
 ### JAVA : 💪💪💪
 
-</br>
+
 
 #Projets 📚
 
-###[Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) 
+###[Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) </h3>
+
   Projet réalisé en Java au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser un jeu de Space Invaders.
 
-</br>
+
 
 # Diplômes 🏆
 ### DUT Informatique 2021 💻
@@ -26,7 +27,7 @@ Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Inform
 ### Permis B 
 ### Prévention et secours civiques de niveau 1
 
-</br>
+
 
 # Mes réseaux et mes contacts 📪
 
