@@ -2,18 +2,26 @@
 
 <p>Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Informatique à Limoges.   Je suis sérieux et soucieux du travail je réalise. J'aime travailler en équipe mais je peux très bien travailler tout seul.</p>
 
+- [Skills](#skills) 
+- [CV](#CV)  
+- [Projets](#projet)  
+- [Diplômes](#diplome)
+- [Réseaux](#reseau)
+ 
 
 
-# Skills 🔩
+# Skills 🔩 <a id="skills"></a>
 ### HTML/CSS : 💪💪💪💪
 ### C/C++ : 💪💪💪
 ### SQL : 💪💪💪
 ### PHP : 💪💪💪
 ### JAVA : 💪💪💪
 
+# CV 📄  <a id="CV"></a>
 
+### [Télécharger mon CV](https://coulaud-guillaume-portfolio.000webhostapp.com/CV_COULAUD_Guillaume.pdf)
 
-# Projets 📚
+# Projets 📚 <a id="projets"></a>
 
 ### [Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) </h3>
 
@@ -30,7 +38,7 @@
 
 
 
-# Diplômes 🏆
+# Diplômes 🏆 <a id="diplome"></a>
 ### DUT Informatique 2021 💻
 ### Baccalauréat ES 
 ### Permis B 
@@ -38,7 +46,7 @@
 
 
 
-# Mes réseaux et mes contacts 📪
+# Mes réseaux et mes contacts 📪 <a id="reseau"></a>
 
 
 <a href="https://www.linkedin.com/in/guillaume-coulaud-123a57197/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="10%"></a><p>          </p><a href="https://coulaud-guillaume-portfolio.000webhostapp.com/"><img src="https://brandeps.com/logo-download/A/Adobe-Portfolio-logo-vector-01.svg" width="10%"></a>
