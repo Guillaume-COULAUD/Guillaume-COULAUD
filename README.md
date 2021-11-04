@@ -20,7 +20,7 @@
 
 # CV 📄  <a id="CV"></a>
 
-### [Télécharger mon CV](https://coulaud-guillaume-portfolio.000webhostapp.com/CV_COULAUD_Guillaume.pdf)
+
 
 # Projets 📚 <a id="projets"></a>
 
