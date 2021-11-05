@@ -1,7 +1,7 @@
 # Hello there 👋
 <img src="https://media3.giphy.com/media/Nx0rz3jtxtEre/200.gif" width="20%">
 
-<p>Je m'appelle Guillaume, j'ai 19 ans et je suis en deuxième année de DUT Informatique à Limoges.   Je suis sérieux et soucieux du travail je réalise. J'aime travailler en équipe mais je peux très bien travailler tout seul.</p>
+<p>Je m'appelle Guillaume, j'ai 20 ans et je suis en Licence Professionnelle Développement d'Application Web et Big Data à Limoges.   Je suis sérieux et soucieux du travail je réalise. J'aime travailler en équipe mais je peux très bien travailler tout seul.</p>
 
 - [Skills](#skills) 
 - [CV](#CV)  
