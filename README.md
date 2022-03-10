@@ -16,7 +16,13 @@
 ### C/C++ : 💪💪💪
 ### SQL : 💪💪💪
 ### PHP : 💪💪💪
-### JAVA : 💪💪💪
+### Node.js : 💪💪💪
+### JAVA :💪💪
+### C# :💪💪
+### Kotlin :💪💪
+
+# Frameworks 🔩 <a id="frameworks"></a>
+### Symfony :💪💪
 
 # CV 📄  <a id="CV"></a>
 
