@@ -50,7 +50,7 @@
 # Mes réseaux et mes contacts 📪 <a id="reseau"></a>
 
 
-<a href="https://www.linkedin.com/in/guillaume-coulaud-123a57197/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="10%"></a><p>          </p><a href="https://coulaud-guillaume-portfolio.000webhostapp.com/"><img src="https://brandeps.com/logo-download/A/Adobe-Portfolio-logo-vector-01.svg" width="10%"></a>
+<a href="https://www.linkedin.com/in/guillaume-coulaud-123a57197/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="10%"></a><p>          </p>
 
 ### Mail : guillaumedu24000@hotmail.fr
 
