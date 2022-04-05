@@ -9,7 +9,7 @@
 - [Diplômes](#diplome)
 - [Réseaux](#reseau)
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guillaume-COULAUD&show_icons=true&theme=merko)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guillaume-COULAUD&count_private=true&show_icons=true&theme=merko)
 
 
 # Skills 🔩 <a id="skills"></a>
