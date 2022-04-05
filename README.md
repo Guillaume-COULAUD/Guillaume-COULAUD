@@ -10,6 +10,9 @@
 - [Réseaux](#reseau)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guillaume-COULAUD&count_private=true&show_icons=true&theme=merko)
+ 
+ ![image](https://user-images.githubusercontent.com/74309425/161779791-4916f52a-770e-4cfa-8f54-4d99433e8b05.png)
+
 
 
 # Skills 🔩 <a id="skills"></a>
