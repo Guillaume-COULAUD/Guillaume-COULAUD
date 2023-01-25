@@ -47,6 +47,7 @@
 
 
 # Diplômes 🏆 <a id="diplome"></a>
+### Licence professionnelle : Développement d'application Web et Big Data
 ### DUT Informatique 2021 💻
 ### Baccalauréat ES 
 ### Permis B 
@@ -59,7 +60,7 @@
 
 <a href="https://www.linkedin.com/in/guillaume-coulaud-123a57197/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="10%"></a><p>          </p>
 
-### Mail : guillaumedu24000@hotmail.fr
+### Mail : guil.coulaud@gmail.com
 
 
 
