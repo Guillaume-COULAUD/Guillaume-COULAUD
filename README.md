@@ -12,47 +12,16 @@
 
 
 # Skills 🔩 <a id="skills"></a>
-### HTML/CSS : 💪💪💪💪
-### SQL : 💪💪💪
-### PHP : 💪💪💪
+### HTML/CSS : 💪💪💪💪💪
+### SQL : 💪💪💪💪
 ### Javascript : 💪💪💪
 ### Node.js : 💪💪💪
-### JAVA :💪💪
-### C/C++ : 💪💪
+### JAVA :💪💪💪
 ### C# :💪💪
-### Kotlin :💪💪
 
 # Frameworks 🔩 <a id="frameworks"></a>
-### Symfony :💪💪
-
-# CV 📄  <a id="CV"></a>
-
-
-
-# Projets 📚 <a id="projets"></a>
-
-### [Space Invaders](https://github.com/Guillaume-COULAUD/Space-Invaders) </h3>
-
-  Projet réalisé en Java au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser un jeu de Space Invaders.
-  
-### [David Lemonad's](https://github.com/Guillaume-COULAUD/David-Lemonade-s) </h3>
-
-  Projet réalisé en HTML et CSS au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser une page d'inscription à des dégustations de limonade.
-  
-### [Projet Pilaf](https://github.com/Guillaume-COULAUD/Projet-Pilaf) </h3>
-
-  Projet réalisé en HTML et CSS au cours de ma première année de DUT Informatique. Projet ayant pour but de réaliser une application de gestion pour un magasin fictif.
-
-
-
-
-# Diplômes 🏆 <a id="diplome"></a>
-### Licence professionnelle : Développement d'application Web et Big Data
-### DUT Informatique 2021 💻
-### Baccalauréat ES 
-### Permis B 
-### Prévention et secours civiques de niveau 1
-
+### React :💪💪
+### Spring :💪💪
 
 
 # Mes réseaux et mes contacts 📪 <a id="reseau"></a>
